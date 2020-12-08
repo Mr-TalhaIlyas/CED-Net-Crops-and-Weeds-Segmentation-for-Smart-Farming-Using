@@ -1,3 +1,4 @@
+![alt text](https://github.com/Mr-TalhaIlyas/SEEK-A-Framework-of-Superpixel-Learning-with-CNN-Features-for-Unsupervised-Segmentation/blob/master/screens/mdpi2.png)
 # CED-Net-Crops-and-Weeds-Segmentation
 
 The existing architectures for weeds and crops segmentation are quite deep, with millions of parameters that require longer training time. To overcome such limitations, we propose an idea of training small networks in cascade to obtain coarse-to-fine predictions, which are then combined to produce the final results.  
