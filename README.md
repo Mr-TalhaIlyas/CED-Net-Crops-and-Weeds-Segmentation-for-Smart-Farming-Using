@@ -5,7 +5,8 @@
 # CED-Net-Crops-and-Weeds-Segmentation
 
 The existing architectures for weeds and crops segmentation are quite deep, with millions of parameters that require longer training time. To overcome such limitations, we propose an idea of training small networks in cascade to obtain coarse-to-fine predictions, which are then combined to produce the final results.  
-You can access the [**_full paper here_**](https://www.mdpi.com/2079-9292/9/10/1602)
+You can access the [**_full paper here_**](https://www.mdpi.com/2079-9292/9/10/1602).
+
 For the updated version of the full code and evaluation metrics click [here](https://github.com/kabbas570/CED-Net-Crops-and-Weeds-Segmentation-for-Smart-Farming-Using-a-Small-Cascaded-Encoder-Decoder-Archi)
 ## Abstract
 
